@@ -2,7 +2,7 @@
 
 Hope you find something great, if you are looking into my profile!
 
-
+<p align="left"></p><img src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true" alt="tarunjain1st" /> </p>
 
 
 
