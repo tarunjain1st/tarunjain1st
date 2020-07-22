@@ -2,11 +2,6 @@
 
 Hope you find something great, if you are looking into my profile!
 
-## Know more about me around the 🌎:
-[![website](https://img.shields.io/badge/PortfolioWebsite-tarunjain1st.github.io-2648ff?style=flat-square&logo=google-chrome)](https://tarunjain1st.github.io/)
-[![linkedin badge](https://img.shields.io/badge/tarunjain1st-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/tarunjain1st)
-[![twitter badge](https://img.shields.io/badge/@tarunjain1st-30302f?style=flat&logo=twitter)](https://twitter.com/tarunjain1st)
-
 ## Tech Stacks : 
 
 <p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> <img 
