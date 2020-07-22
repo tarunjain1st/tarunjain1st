@@ -3,7 +3,7 @@
 Hope you find something great, if you are looking into my profile!
 
 ## Know more about me around the 🌎:
-
+[![website](https://img.shields.io/badge/PortfolioWebsite-tarunjain1st.github.io-2648ff?style=flat-square&logo=google-chrome)](https://tarunjain1st.github.io/)
 [![linkedin badge](https://img.shields.io/badge/tarunjain1st-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/tarunjain1st)
 [![twitter badge](https://img.shields.io/badge/@tarunjain1st-30302f?style=flat&logo=twitter)](https://twitter.com/tarunjain1st)
 
@@ -16,7 +16,7 @@ src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg"
 src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> <img 
 src="https://icongr.am/devicon/git-original-wordmark.svg" alt="linux" width="60" height="60"/> 
   
-<p align="left"></p><img src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true" alt="tarunjain1st" /> </p>
+<p align="left"></p><img src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true" alt="tarunjain1st" /> </p>
 
 
 <!--
