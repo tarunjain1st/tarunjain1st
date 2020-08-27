@@ -8,8 +8,6 @@ Hope you find something great, if you are looking into my profile!
 
 <p align="left"><img src="https://icongr.am/devicon/c-original.svg" alt="c" width="60" height="60"/> <img 
 src="https://icongr.am/devicon/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> <img 
-src="https://icongr.am/devicon/html5-original-wordmark.svg" alt="css3" width="60" height="60"/> <img 
-src="https://icongr.am/devicon/css3-original-wordmark.svg" alt="html5" width="60" height="60"/> <img 
 src="https://icongr.am/devicon/python-original.svg" alt="python" width="60" height="60"/> <img 
 src="https://icongr.am/devicon/linux-original.svg" alt="linux" width="60" height="60"/> <img 
 src="https://icongr.am/devicon/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> <img 
