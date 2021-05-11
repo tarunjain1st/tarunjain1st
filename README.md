@@ -15,7 +15,4 @@ src="https://icongr.am/devicon/git-original-wordmark.svg" alt="linux" width="60"
 src="https://icongr.am/devicon/electron-original.svg" alt="linux" width="60" height="60"/> 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&layout=compact&hide=html" alt="tarunjain1st" /></p>
-
-<br>
-  
 <p align="left"></p><img src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true" alt="tarunjain1st" /> </p>
