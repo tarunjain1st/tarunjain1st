@@ -3,7 +3,7 @@
 Hope you find something great, if you are looking into my profile!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunjain1st&label=Views&color=brightgreen&style=plastic" alt="tarunjain1st" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunjain1st&theme=dark" alt="tarunjain1st" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunjain1st" alt="tarunjain1st" /></a> </p>
 
 
 ## Tech Stacks : 
