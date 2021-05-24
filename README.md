@@ -5,7 +5,6 @@ Hope you find something great, if you are looking into my profile!
 
 
 ## Tech Stacks : 
-**Skills**: 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
