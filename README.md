@@ -15,7 +15,6 @@ Hope you find something great, if you are looking into my profile!
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&layout=compact&hide=html&theme=dark" alt="tarunjain1st" /></p>
