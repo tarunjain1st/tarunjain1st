@@ -42,16 +42,7 @@ Hope you find something great, if you are looking into my profile!
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&show_icons=true&theme=dark" width="42%" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&show_icons=true&theme=dark">
 </div>
 
 <br/>
-
-
-![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunjain1st&hide=stars&theme=gotham)
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&layout=compact&hide=html&theme=dark" alt="tarunjain1st" /></p>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunjain1st&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=dark" width="425"><br>
-
-<br/>
-<img src="https://activity-graph.herokuapp.com/graph?username=tarunjain1st&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
