@@ -11,12 +11,9 @@ Hope you find something great, if you are looking into my profile!
 </div> 
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunjain1st&label=Views&color=brightgreen&style=plastic" alt="tarunjain1st" /> </p>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=tarunjain1st&label=Views&color=brightgreen&style=plastic" alt="tarunjain1st" />
 </div> 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunjain1st" alt="tarunjain1st" /></a> </p>  
-<br/>
-
 
 ## Tech Stacks : 
 
