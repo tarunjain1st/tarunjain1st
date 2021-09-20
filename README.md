@@ -6,6 +6,10 @@ Hope you find something great, if you are looking into my profile!
 <div align="center">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tarunjain1st/)
+</div> 
+  
+<div align="center">
+  
 <img alt="followers" src="https://img.shields.io/github/followers/tarunjain1st?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
   
 </div> 
@@ -25,7 +29,6 @@ Hope you find something great, if you are looking into my profile!
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)
 
 <div align="center">
-
 ![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunjain1st&hide=stars&theme=gotham)
 </div> 
 
