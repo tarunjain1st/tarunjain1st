@@ -1,6 +1,17 @@
 ### Hi there 👋
 
 Hope you find something great, if you are looking into my profile!
+<br/>
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tarunjain1st/)
+<img alt="followers" src="https://img.shields.io/github/followers/tarunjain1st?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+  
+</div> 
+<br/>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunjain1st&label=Views&color=brightgreen&style=plastic" alt="tarunjain1st" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunjain1st" alt="tarunjain1st" /></a> </p>
