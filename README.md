@@ -26,10 +26,15 @@ Hope you find something great, if you are looking into my profile!
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)
 
+<div align="center">
+
 ![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunjain1st&hide=stars&theme=gotham)
+<div align="center">
+</div> 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&layout=compact&hide=html&theme=dark" alt="tarunjain1st" /></p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunjain1st&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=dark" width="425"><br>
+</div> 
 
 <br/>
 <img src="https://activity-graph.herokuapp.com/graph?username=tarunjain1st&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
