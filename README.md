@@ -14,6 +14,7 @@ Hope you find something great, if you are looking into my profile!
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=tarunjain1st&label=Views&color=brightgreen&style=plastic" alt="tarunjain1st" />
+</div> 
 
 ## Tech Stacks : 
 
