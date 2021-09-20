@@ -6,14 +6,12 @@ Hope you find something great, if you are looking into my profile!
 <div align="center">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tarunjain1st/)
-</div> 
-  
-<div align="center">
-  
 <img alt="followers" src="https://img.shields.io/github/followers/tarunjain1st?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
   
 </div> 
 <br/>
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=tarunjain1st&label=Views&color=brightgreen&style=plastic" alt="tarunjain1st" />
 
