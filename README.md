@@ -28,6 +28,26 @@ Hope you find something great, if you are looking into my profile!
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)
 
 
+## 📚 GitHub Stats:
+
+
+<img  src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunjain1st&hide_border=true&theme=dark" width="45%" >
+<br />
+
+<img src="https://activity-graph.herokuapp.com/graph?username=tarunjain1st&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+
+## 💻 Languages Used: 
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&show_icons=true&theme=dark" width="42%" >
+</div>
+
+<br/>
+
+
 ![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunjain1st&hide=stars&theme=gotham)
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&layout=compact&hide=html&theme=dark" alt="tarunjain1st" /></p>
