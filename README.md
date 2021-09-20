@@ -12,7 +12,6 @@ Hope you find something great, if you are looking into my profile!
 <br/>
 
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=tarunjain1st&label=Views&color=brightgreen&style=plastic" alt="tarunjain1st" />
 </div> 
 
@@ -37,12 +36,3 @@ Hope you find something great, if you are looking into my profile!
 <br />
 
 <img src="https://activity-graph.herokuapp.com/graph?username=tarunjain1st&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
-
-## 💻 Languages Used: 
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&show_icons=true&theme=dark">
-</div>
-
-<br/>
