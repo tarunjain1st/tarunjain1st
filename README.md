@@ -19,7 +19,7 @@ Hope you find something great, if you are looking into my profile!
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c++)
+![C++](https://img.shields.io/badge/c++.svg?&style=for-the-badge&logo=c++)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
