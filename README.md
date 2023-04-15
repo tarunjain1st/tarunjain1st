@@ -34,4 +34,3 @@ Hope you find something great, if you are looking into my profile!
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunjain1st&hide_border=true&theme=dark" width="45%" >
 <br />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=tarunjain1st&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
