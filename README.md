@@ -26,7 +26,7 @@ Hope you find something great, if you are looking into my profile!
 
 ## 📚 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&layout=compact&theme=react)](https://github.com/tarunjain1st)
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&layout=compact&theme=react">
 
 <img  src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true&theme=react" width="40%" align="right" >
 
