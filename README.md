@@ -3,7 +3,7 @@
 Hope you find something great, if you are looking into my profile!
 
 <br/>
-
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&hide_border=true&layout=compact&theme=react" width="26.5%">
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=tarunjain1st&label=Views&color=brightgreen&style=plastic" alt="tarunjain1st" />
 </div> 
@@ -22,6 +22,5 @@ Hope you find something great, if you are looking into my profile!
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true&theme=react" width="35%">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunjain1st&hide_border=true&theme=react" width="37%">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&hide_border=true&layout=compact&theme=react" width="26.5%">
 </div>
 <br/>
