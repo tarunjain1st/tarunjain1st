@@ -22,6 +22,6 @@ Hope you find something great, if you are looking into my profile!
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true&theme=react" width="37%">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunjain1st&hide_border=true&theme=react" width="39%">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&hide_border=true&layout=compact&theme=react" width="21.5%">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&hide_border=true&layout=compact&theme=react" width="27.5%">
 </div>
 <br/>
