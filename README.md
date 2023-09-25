@@ -26,10 +26,10 @@ Hope you find something great, if you are looking into my profile!
 
 ## 📚 GitHub Stats:
 
-![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&theme=react&hide=issues) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&layout=compact&theme=react)](https://github.com/tarunjain1st)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&layout=compact&theme=react)](https://github.com/tarunjain1st)
 
-<img  src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true&theme=react" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunjain1st&hide_border=true&theme=dark" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunjain1st&hide_border=true&theme=react" width="45%" >
 <br />
 
