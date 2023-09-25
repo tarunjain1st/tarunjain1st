@@ -1,14 +1,7 @@
 ### Hi there 👋
 
 Hope you find something great, if you are looking into my profile!
-<br/>
 
-<div align="center">
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tarunjain1st/)
-[<img alt="followers" src="https://img.shields.io/github/followers/tarunjain1st?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>](https://twitter.com/tarunjain1st)
-  
-</div> 
 <br/>
 
 <div align="center">
@@ -26,8 +19,9 @@ Hope you find something great, if you are looking into my profile!
 
 ## 📚 GitHub Stats:
 
-
+<div align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true&theme=react">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunjain1st&hide_border=true&theme=react">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&layout=compact&theme=react">
-
+</div>
+<br/>
