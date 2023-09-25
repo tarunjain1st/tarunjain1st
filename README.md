@@ -3,10 +3,11 @@
 Hope you find something great, if you are looking into my profile!
 
 <br/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&hide_border=true&layout=compact&theme=react" width="26.5%">
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=tarunjain1st&label=Views&color=brightgreen&style=plastic" alt="tarunjain1st" />
 </div> 
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&hide_border=true&layout=compact&theme=react">
 
 ## Tech Stacks : 
 
