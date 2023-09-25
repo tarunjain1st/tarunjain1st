@@ -26,6 +26,7 @@ Hope you find something great, if you are looking into my profile!
 
 ## 📚 GitHub Stats:
 
+[![Tarun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tarunjain1st)](https://github.com/anuraghazra/github-readme-stats)
 
 <img  src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 
