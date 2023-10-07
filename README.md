@@ -25,3 +25,6 @@ Hope you find something great, if you are looking into my profile!
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunjain1st&hide_border=true&theme=react" width="48.6%">
 </div>
 <br/>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tarunjain1st&theme=onedark)]()
