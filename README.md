@@ -12,7 +12,7 @@
             Hope you find something great, if you are looking into my profile!
          </td>
          <td width="30%">
-            <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&hide_border=true&layout=compact&theme=react">
+            <img  src="https://github.com/tarunjain1st/tarunjain1st/blob/547089ad39756904aa0eeb9cef428c41bf02ce8a/laptop.png">
             <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&hide_border=true&layout=compact&theme=react">
          </td>
       </tr>
