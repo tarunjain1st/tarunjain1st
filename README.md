@@ -19,19 +19,23 @@
    </table>
 </div>
 
-## 💻 Tech Stacks:
+## 🔧 Technologies & Tools
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c++)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter)
-![MySQL](https://img.shields.io/badge//MySQL-00000F?style=for-the-badge&logo=mysql)
-![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws)
 </div>
 
 ## 📚 GitHub Stats:
@@ -52,3 +56,14 @@
   
    <img src="https://komarev.com/ghpvc/?username=tarunjain1st&label=Views&color=brightgreen&style=plastic" alt="tarunjain1st" />
 </div>
+
+<img sarc="https://imgur.com/DBgkbFW.jpeg" width="100%">
+
+<p align="center">
+<a href="https://linkedin.com/in/tarunjain1st" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=LINKEDIN&color=493252&style=for-the-badge&logo=linkedin"/></a>
+<a href="https://twitter.com/tarunjain1st" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=TWITTER&color=493252&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.instagram.com/tarunjain1st/" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=INSTAGRAM&color=493252&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+A web developer with a deep interest in artificial intelligence for using technology to create innovative and user-friendly websites. I am constantly seeking new challenges and opportunities to enhance my web development skills, with a goal to contribute effectively on a team.
+
