@@ -28,18 +28,18 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws)
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux)
+![](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=visualstudiocode)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=yellow)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb)
+![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker)
+![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoftazure)
+![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws)
 </div>
 
 ## 📚 GitHub Stats:
