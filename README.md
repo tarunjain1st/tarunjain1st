@@ -9,10 +9,10 @@
    <table width="100%">
       <tr>
          <td width="70%">
-            Hope you find something great, if you are looking into my profile!
+As a Software Developer, I have experience working with Python, Django, and Flask REST API, and I have focused on backend microservices and development.
          </td>
          <td width="30%">
-            <img  src="https://github.com/tarunjain1st/tarunjain1st/blob/547089ad39756904aa0eeb9cef428c41bf02ce8a/laptop.png">
+            <img  src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
             <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&hide_border=true&layout=compact&theme=react">
          </td>
       </tr>
