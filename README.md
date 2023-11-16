@@ -26,9 +26,6 @@ Hope you find something great, if you are looking into my profile!
 </div>
 <br/>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tarunjain1st&theme=onedark)]()
-
 ### ✍️ Random Dev Quote
 
 <img align="right" height="0" width="0" src="https://customsitesmedia.usc.edu/wp-content/uploads/sites/308/2016/10/17131545/tumblr_o7jfjpvlny1tbhzhno1_500.gif" width="930"/>
