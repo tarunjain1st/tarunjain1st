@@ -9,7 +9,12 @@
    <table width="100%">
       <tr>
          <td width="70%">
-As a Software Developer, I have experience working with Python, Django, and Flask REST API, and I have focused on backend microservices and development.
+<p> As a Software Developer, I have experience working with Python, Django, and Flask REST API, and I have focused on backend microservices and development. </p>           
+<p align="center">
+<a href="https://linkedin.com/in/tarunjain1st" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=LINKEDIN&color=493252&style=for-the-badge&logo=linkedin"/></a>
+<a href="https://twitter.com/tarunjain1st" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=TWITTER&color=493252&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.instagram.com/tarunjain1st/" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=INSTAGRAM&color=493252&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
          </td>
          <td width="30%">
             <img  src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
@@ -58,8 +63,3 @@ As a Software Developer, I have experience working with Python, Django, and Flas
 
 <img sarc="https://imgur.com/DBgkbFW.jpeg" width="100%">
 
-<p align="center">
-<a href="https://linkedin.com/in/tarunjain1st" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=LINKEDIN&color=493252&style=for-the-badge&logo=linkedin"/></a>
-<a href="https://twitter.com/tarunjain1st" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=TWITTER&color=493252&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.instagram.com/tarunjain1st/" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=INSTAGRAM&color=493252&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
