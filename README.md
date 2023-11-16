@@ -1,6 +1,6 @@
 <div align="center" > 
 
-   [![Typing SVG](https://readme-typing-svg.demolab.com/?&center=true&size=25&duration=2500&lines=Hello;नमस्ते;जय+जिनेन्द्र;Vanakkam+(வணக்கம்);Bonjour;Hola;Nǐ+hǎo+(你好);Olà;Konichiwa+(こんにちは);Xin+chào;Marhaba+(مرحبًا))](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com/?&center=true&size=25&duration=3000&lines=Hello;नमस्ते;जय+जिनेन्द्र;Vanakkam+(வணக்கம்);Bonjour;Hola;Nǐ+hǎo+(你好);Olà;Konichiwa+(こんにちは);Xin+chào;Marhaba+(مرحبًا))](https://git.io/typing-svg)
 </div>
 
 ## 👨‍💻 About :
@@ -24,7 +24,6 @@ As a Software Developer, I have experience working with Python, Django, and Flas
 <div align="center">
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
