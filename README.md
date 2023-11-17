@@ -10,6 +10,8 @@
       <tr>
          <td width="70%">
 
+<img src="https://imgur.com/DBgkbFW.jpeg">
+
 -   🌱 I’m a Software Developer and Data Enthusiast.
 -   🔭 Currently persuing Masters at Neovarsity (Scaler), Woolf University 
 -   👯 I’m looking to collaborate with other Developers :wink:
@@ -62,7 +64,6 @@
 ### ✍️ Random Dev Quote:
 
    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img sarc="https://imgur.com/DBgkbFW.jpeg" width="100%">
 -->
 
 ---
