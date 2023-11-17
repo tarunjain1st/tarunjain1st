@@ -19,7 +19,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/tarunjain1st" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=LINKEDIN&color=493252&style=for-the-badge&logo=linkedin"/></a>
-<a href="https://twitter.com/tarunjain1st" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=TWITTER&color=493252&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://scaler.com/academy/profile/8c51b41a8f75" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=TWITTER&color=493252&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.instagram.com/tarunjain1st/" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=INSTAGRAM&color=493252&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
          </td>
