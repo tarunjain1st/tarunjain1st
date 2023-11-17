@@ -24,7 +24,7 @@
 </p>
          </td>
          <td width="30%" align='center'>
-            <img  src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/99015217-7014-4003-a3a8-4a3e883d2f95">
+            <img  src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/9c1aea61-6ec0-4333-9ca6-79588c9266b9">
             <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&hide_border=true&layout=compact&theme=react">
          </td>
       </tr>
