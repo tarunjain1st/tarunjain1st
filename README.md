@@ -3,8 +3,6 @@
    [![Typing SVG](https://readme-typing-svg.demolab.com/?&center=true&size=25&duration=3000&lines=Hello;नमस्ते;जय+जिनेन्द्र;Vanakkam+(வணக்கம்);Bonjour;Hola;Nǐ+hǎo+(你好);Olà;Konichiwa+(こんにちは);Xin+chào;Marhaba+(مرحبًا))](https://git.io/typing-svg)
 </div>
 
-<img src="images/laptop.PNG">
-
 ## 👨‍💻 About :
 
 <div>
@@ -26,7 +24,7 @@
 </p>
          </td>
          <td width="30%" align='center'>
-            <img  src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+            <img  src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/99015217-7014-4003-a3a8-4a3e883d2f95">
             <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&hide_border=true&layout=compact&theme=react">
          </td>
       </tr>
