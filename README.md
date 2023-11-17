@@ -12,6 +12,8 @@
 
 <img src="https://imgur.com/DBgkbFW.jpeg">
 
+<br/>
+
 -   🌱 I’m a Software Developer and Data Enthusiast.
 -   🔭 Currently persuing Masters at Neovarsity (Scaler), Woolf University 
 -   👯 I’m looking to collaborate with other Developers :wink:
