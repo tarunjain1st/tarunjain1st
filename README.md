@@ -9,23 +9,21 @@
    <table width="100%">
       <tr>
          <td width="70%">
-            
--   🔭 I’m currently working on various projects and persuing Masters :grin:
+
 -   🌱 I’m a Software Developer and Data Enthusiast.
+-   🔭 Currently persuing Masters at Neovarsity (Scaler), Woolf University 
 -   👯 I’m looking to collaborate with other Developers :wink:
--   🥅 2025 Goals: Contribute to Novel Research ideas and Try out Competitive Coding
+-   🥅 2025 Goals: Get into FAANG/MAANG and Try out Competitive Coding
 -   💬 Feel free to reach me about anything, I am happy to help :smile:
--   📬 How to reach me: ?
--   🧗 I try to: Explore new paths and push my limits
--   ⚡ Fun fact: I love connecting with different people
-       
+-   📬 How to reach me? : Path is just below :grin:
+
 <p align="center">
 <a href="https://linkedin.com/in/tarunjain1st" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=LINKEDIN&color=493252&style=for-the-badge&logo=linkedin"/></a>
 <a href="https://twitter.com/tarunjain1st" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=TWITTER&color=493252&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.instagram.com/tarunjain1st/" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=INSTAGRAM&color=493252&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
          </td>
-         <td width="30%">
+         <td width="30%" align='center'>
             <img  src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
             <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&hide_border=true&layout=compact&theme=react">
          </td>
