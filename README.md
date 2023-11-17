@@ -57,16 +57,16 @@
 </div>
 <br/>
 
+<!---
+
 ### ✍️ Random Dev Quote:
 
-<div align='center'>
-  
    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img sarc="https://imgur.com/DBgkbFW.jpeg" width="100%">
+-->
 
-  ---
-  
+---
+<div align='center'>
    <img src="https://komarev.com/ghpvc/?username=tarunjain1st&label=Views&color=brightgreen&style=plastic" alt="tarunjain1st" />
 </div>
-
-<img sarc="https://imgur.com/DBgkbFW.jpeg" width="100%">
 
