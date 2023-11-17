@@ -10,15 +10,11 @@
       <tr>
          <td width="70%">
 
-<img src="https://imgur.com/DBgkbFW.jpeg">
-
-<br/>
+<img ssrc="https://imgur.com/DBgkbFW.jpeg">
 
 -   🌱 I’m a Software Developer and Data Enthusiast.
 -   🔭 Currently persuing Masters at Neovarsity (Scaler), Woolf University 
--   👯 I’m looking to collaborate with other Developers :wink:
 -   🥅 2025 Goals: Get into FAANG/MAANG and Try out Competitive Coding
--   💬 Feel free to reach me about anything, I am happy to help :smile:
 -   📬 How to reach me? : Path is just below :grin:
 
 <p align="center">
