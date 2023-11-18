@@ -12,17 +12,16 @@
 
 <img ssrc="https://imgur.com/DBgkbFW.jpeg">
 
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAKlBMVEVHcEwAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8lN1nF3AAAADXRSTlMA/eN4XGbt10WynTQhpm3+RAAAAGBJREFUGJVVz9sOgCAMA9BSroL8/+86toHap/WENAHQ1Bk8u59o5/wDo+cyYIMnKbwdeUHtLWluh7OWHcKGdKDYvkEVoM0pyG0QFWIBvi/GugQCySIwCgzWR2W+Exss3h8YZwXFcoHQ3gAAAABJRU5ErkJggg==" width="50%">
-
 -   🌱 I’m a Software Developer and Data Enthusiast.
 -   🔭 Currently persuing Masters at Neovarsity (Scaler), Woolf University 
 -   🥅 2025 Goals: Get into FAANG/MAANG and Try out Competitive Coding
 -   📬 How to reach me? : Path is just below :grin:
 
 <p align="center">
-<a href="https://linkedin.com/in/tarunjain1st" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=LinkedIN&color=493252&style=for-the-badge&logo=linkedin"/></a>
-<a href="https://scaler.com/academy/profile/8c51b41a8f75" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=Scaler&color=493252&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAKlBMVEVHcEwAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8lN1nF3AAAADXRSTlMA/eN4XGbt10WynTQhpm3+RAAAAGBJREFUGJVVz9sOgCAMA9BSroL8/+86toHap/WENAHQ1Bk8u59o5/wDo+cyYIMnKbwdeUHtLWluh7OWHcKGdKDYvkEVoM0pyG0QFWIBvi/GugQCySIwCgzWR2W+Exss3h8YZwXFcoHQ3gAAAABJRU5ErkJggg=="/></a>
-<a href="https://leetcode.com/tarunjain1st/" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=Leetcode&color=493252&style=for-the-badge&logo=leetcode"/></a>
+<a href = "mailto:tarunjain1st@gmail.com"><img src="https://img.shields.io/badge/Gmail-informational?&color=493252&style=for-the-badge&logo=gmail" target="_blank"></a>
+<a href="https://linkedin.com/in/tarunjain1st" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-informational?&color=493252&style=for-the-badge&logo=linkedin"/></a>
+<a href="https://scaler.com/academy/profile/8c51b41a8f75" target="blank"><img src="https://img.shields.io/badge/Scaler-informational?color=493252&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAKlBMVEVHcEwAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8lN1nF3AAAADXRSTlMA/eN4XGbt10WynTQhpm3+RAAAAGBJREFUGJVVz9sOgCAMA9BSroL8/+86toHap/WENAHQ1Bk8u59o5/wDo+cyYIMnKbwdeUHtLWluh7OWHcKGdKDYvkEVoM0pyG0QFWIBvi/GugQCySIwCgzWR2W+Exss3h8YZwXFcoHQ3gAAAABJRU5ErkJggg=="/></a>
+<a href="https://leetcode.com/tarunjain1st/" target="blank"><img src="https://img.shields.io/badge/Leetcode-informational?&color=493252&style=for-the-badge&logo=leetcode"/></a>
 </p>
          </td>
          <td width="30%" align='center'>
