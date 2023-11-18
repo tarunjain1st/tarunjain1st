@@ -36,18 +36,20 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux)
-![](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=visualstudiocode)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=yellow)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=git)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb)
-![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman)
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker)
-![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoftazure)
-![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws)
+![](https://img.shields.io/badge/Linux-informational?color=493252&logo=linux)
+![](https://img.shields.io/badge/Python-informational?color=493252&logo=python)
+![](https://img.shields.io/badge/JavaScript-informational?color=493252&logo=javascript)
+![](https://img.shields.io/badge/Flask-informational?color=493252&logo=flask)
+![](https://img.shields.io/badge/Django-informational?color=493252&logo=django)
+![](https://img.shields.io/badge/Git-informational?color=493252&logo=git)
+![](https://img.shields.io/badge/MySQL-informational?color=493252&logo=mysql)
+![](https://img.shields.io/badge/MongoDB-informational?color=493252&logo=mongodb)
+![](https://img.shields.io/badge/Redis-informational?color=493252&logo=redis)
+![](https://img.shields.io/badge/Postman-informational?color=493252&logo=postman)
+![](https://img.shields.io/badge/Docker-informational?color=493252&logo=docker)
+![](https://img.shields.io/badge/Kubernetes-informational?color=493252&logo=kubernetes)
+![](https://img.shields.io/badge/Azure-informational?color=493252&logo=microsoftazure)
+![](https://img.shields.io/badge/AWS-informational?color=493252&logo=amazon-aws)
 </div>
 
 ## 📚 GitHub Stats:
