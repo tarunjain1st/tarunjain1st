@@ -1,6 +1,6 @@
 <div align="center" > 
 
-   [![Typing SVG](https://readme-typing-svg.demolab.com/?&center=true&size=25&duration=3000&lines=Hello;नमस्ते;जय+जिनेन्द्र;Vanakkam+(வணக்கம்);Bonjour;Hola;Nǐ+hǎo+(你好);Olà;Konichiwa+(こんにちは);Xin+chào;Marhaba+(مرحبًا))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?&center=true&size=25&duration=3500&lines=Hello;नमस्ते;जय+जिनेन्द्र;Vanakkam+(வணக்கம்);Bonjour;Hola;Nǐ+hǎo+(你好);Olà;Konichiwa+(こんにちは);Xin+chào;Marhaba+(مرحبًا))](https://git.io/typing-svg)
 </div>
 
 ## 👨‍💻 About :
