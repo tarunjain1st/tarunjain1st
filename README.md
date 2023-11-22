@@ -27,6 +27,8 @@
          <td width="30%" align='center'>
             <img  src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/9c1aea61-6ec0-4333-9ca6-79588c9266b9">
             <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&hide_border=true&layout=compact&theme=react">
+            <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunjain1st&hide_border=true&theme=react">
+            <img  src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true&theme=react">
          </td>
       </tr>
    </table>
@@ -51,14 +53,6 @@
 ![](https://img.shields.io/badge/Azure-informational?color=493252&logo=microsoftazure)
 ![](https://img.shields.io/badge/AWS-informational?color=493252&logo=amazon-aws)
 </div>
-
-## 📚 GitHub Stats:
-
-<div align="center">
-   <img  src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true&theme=react" width="46%">
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunjain1st&hide_border=true&theme=react" width="48.6%">
-</div>
-<br/>
 
 <!---
 
