@@ -10,7 +10,7 @@
       <tr>
          <td width="70%">
 
-<img ssrc="https://imgur.com/DBgkbFW.jpeg">
+<img src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/bc5524a9-4f3d-4e96-a2df-043043a5c6dd">
 
 -   🌱 I’m a Software Developer and Data Enthusiast.
 -   🔭 Currently persuing Masters at Neovarsity (Scaler), Woolf University 
