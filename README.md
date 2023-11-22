@@ -26,9 +26,8 @@
          </td>
          <td width="30%" align='center'>
             <img  src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/9c1aea61-6ec0-4333-9ca6-79588c9266b9">
-            <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&hide_border=true&layout=compact&theme=react">
             <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunjain1st&hide_border=true&theme=react">
-            <img  src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true&theme=react">
+            <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&hide_border=true&layout=compact&theme=react">
          </td>
       </tr>
    </table>
@@ -57,6 +56,7 @@
 <!---
 
 ### ✍️ Random Dev Quote:
+            <img  src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true&theme=react">
 
    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 -->
