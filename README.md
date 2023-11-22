@@ -15,7 +15,7 @@
 -   🌱 I’m a Software Developer and Data Enthusiast.
 -   🔭 Currently persuing Masters at Neovarsity (Scaler), Woolf University 
 -   🥅 2025 Goals: Get into FAANG/MAANG and Try out Competitive Coding
--   📬 How to reach me? : Path is just below :grin:
+-   📬 How to reach me?: Try below links :grin:
 
 <p align="center">
 <a href = "mailto:tarunjain1st@gmail.com"><img src="https://img.shields.io/badge/Gmail-informational?&color=493252&style=for-the-badge&logo=gmail" target="_blank"></a>
