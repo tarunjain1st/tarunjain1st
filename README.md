@@ -1,9 +1,14 @@
-<div align="center" > 
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?&center=true&size=25&duration=3500&lines=Hello;नमस्ते;जय+जिनेन्द्र;Vanakkam+(வணக்கம்);Bonjour;Hola;Nǐ+hǎo+(你好);Olà;Konichiwa+(こんにちは);Xin+chào;Marhaba+(مرحبًا))](https://git.io/typing-svg)
+<div align="center"> 
+   
+[![Typing SVG](https://readme-typing-svg.demolab.com/?&size=20&center=true&pause=1000&color=DE43BA&height=45&duration=3500&lines=Hello;नमस्ते;जय+जिनेन्द्र;Vanakkam+(வணக்கம்);Bonjour;Hola;Nǐ+hǎo+(你好);Olà;Konichiwa+(こんにちは);Xin+chào;Marhaba+(مرحبًا))](https://git.io/typing-svg)
+<img src='https://readme-typing-svg.demolab.com/?size=16&center=true&repeat=false&duration=3000&lines=I+am+Tarun+Kumar+Jain,+a+innovator+from+India'>
+<p>.</p>
 </div>
+<br>
 
-## 👨‍💻 About :
+## 👨‍💻 About : 
 
 <div>
    <table width="100%">
@@ -15,6 +20,7 @@
 -   🌱 I’m a Software Developer and Data Enthusiast.
 -   🔭 Currently persuing Masters at Neovarsity (Scaler), Woolf University 
 -   🥅 2025 Goals: Get into FAANG/MAANG and Try out Competitive Coding
+-   I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
 -   📬 How to reach me?: Try below links :grin:
 
 <p align="center">
