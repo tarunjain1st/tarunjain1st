@@ -56,7 +56,10 @@
 ![](https://img.shields.io/badge/Flask-05122A?logo=flask)&nbsp;
 ![](https://img.shields.io/badge/Django-05122A?logo=django)&nbsp;
 ![](https://img.shields.io/badge/React-05122A?logo=react)&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+
+![clouds-removebg-preview](https://github.com/tarunjain1st/tarunjain1st/assets/20864261/eb908be5-6f15-464f-a547-0accb2da93be)
+
+
 ![](https://img.shields.io/badge/MySQL-05122A?logo=mysql)&nbsp;
 ![](https://img.shields.io/badge/MongoDB-05122A?logo=mongodb)&nbsp;
 ![](https://img.shields.io/badge/Redis-05122A?logo=redis)&nbsp;
@@ -72,6 +75,7 @@
 <!---
 
 ### ✍️ Random Dev Quote:
+![cloud-removebg-preview](https://github.com/tarunjain1st/tarunjain1st/assets/20864261/a32f2df3-368d-4716-a981-163531a341d2)
             <img  src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true&theme=react">
 
    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
