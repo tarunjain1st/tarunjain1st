@@ -46,25 +46,27 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/Linux-05122A?logo=linux)
-![](https://img.shields.io/badge/HTML-05122A?logo=HTML5)
-![](https://img.shields.io/badge/CSS-05122A?logo=CSS3)
-![](https://img.shields.io/badge/Python-05122A?logo=python)
-![](https://img.shields.io/badge/JavaScript-05122A?logo=javascript)
-![](https://img.shields.io/badge/Flask-05122A?logo=flask)
+![](https://img.shields.io/badge/HTML-05122A?logo=HTML5)&nbsp;
+![](https://img.shields.io/badge/CSS-05122A?logo=CSS3)&nbsp;
+![](https://img.shields.io/badge/Python-05122A?logo=python)&nbsp;
+![](https://img.shields.io/badge/C++-05122A?logo=C%2B%2B)&nbsp;
+![](https://img.shields.io/badge/JavaScript-05122A?logo=javascript)&nbsp;
 
 
-![](https://img.shields.io/badge/Django-05122A?logo=django)
-![](https://img.shields.io/badge/Git-05122A?logo=git)
-![](https://img.shields.io/badge/MySQL-05122A?logo=mysql)
-![](https://img.shields.io/badge/MongoDB-05122A?logo=mongodb)
-![](https://img.shields.io/badge/Redis-05122A?logo=redis)
-![](https://img.shields.io/badge/Docker-05122A?logo=docker)
+![](https://img.shields.io/badge/Flask-05122A?logo=flask)&nbsp;
+![](https://img.shields.io/badge/Django-05122A?logo=django)&nbsp;
+![](https://img.shields.io/badge/React-05122A?logo=react)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/MySQL-05122A?logo=mysql)&nbsp;
+![](https://img.shields.io/badge/MongoDB-05122A?logo=mongodb)&nbsp;
+![](https://img.shields.io/badge/Redis-05122A?logo=redis)&nbsp;
 
 
-![](https://img.shields.io/badge/Kubernetes-05122A?logo=kubernetes)
-![](https://img.shields.io/badge/Azure-05122A?logo=microsoftazure)
-![](https://img.shields.io/badge/AWS-05122A?logo=amazon-aws)
+![](https://img.shields.io/badge/Azure-05122A?logo=microsoftazure)&nbsp;
+![](https://img.shields.io/badge/AWS-05122A?logo=amazon-aws)&nbsp;
+![](https://img.shields.io/badge/Linux-05122A?logo=linux)&nbsp;
+![](https://img.shields.io/badge/Docker-05122A?logo=docker)&nbsp;
+![](https://img.shields.io/badge/Kubernetes-05122A?logo=kubernetes)&nbsp;
 </div>
 
 <!---
