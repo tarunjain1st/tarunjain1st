@@ -57,7 +57,9 @@
 ![](https://img.shields.io/badge/Django-05122A?logo=django)&nbsp;
 ![](https://img.shields.io/badge/React-05122A?logo=react)&nbsp;
 
-<img src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/a32f2df3-368d-4716-a981-163531a341d2" width="10%">
+
+<img src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/18219898-2231-4c53-b73f-afbefc3fe628" width="10%">
+
 
 ![](https://img.shields.io/badge/MySQL-05122A?logo=mysql)&nbsp;
 ![](https://img.shields.io/badge/MongoDB-05122A?logo=mongodb)&nbsp;
@@ -72,6 +74,9 @@
 </div>
 
 <!---
+
+![cd1](https://github.com/tarunjain1st/tarunjain1st/assets/20864261/d77e2e9f-a690-4afa-af2d-e0ad239bc959)
+![cd2](https://github.com/tarunjain1st/tarunjain1st/assets/20864261/18219898-2231-4c53-b73f-afbefc3fe628)
 
 ### ✍️ Random Dev Quote:
 ![cloud-removebg-preview](https://github.com/tarunjain1st/tarunjain1st/assets/20864261/a32f2df3-368d-4716-a981-163531a341d2)
