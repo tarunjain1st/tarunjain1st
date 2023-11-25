@@ -17,6 +17,8 @@
 
 <img src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/bc5524a9-4f3d-4e96-a2df-043043a5c6dd">
 
+---
+
 -   🌱 I’m a Software Developer and Data Enthusiast.
 -   🔭 Currently persuing Masters at Neovarsity (Scaler), Woolf University 
 -   🥅 2025 Goals: Get into FAANG/MAANG and Try out Competitive Coding
