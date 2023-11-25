@@ -57,8 +57,7 @@
 ![](https://img.shields.io/badge/Django-05122A?logo=django)&nbsp;
 ![](https://img.shields.io/badge/React-05122A?logo=react)&nbsp;
 
-![clouds-removebg-preview](https://github.com/tarunjain1st/tarunjain1st/assets/20864261/eb908be5-6f15-464f-a547-0accb2da93be)
-
+<img src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/a32f2df3-368d-4716-a981-163531a341d2" width="10%">
 
 ![](https://img.shields.io/badge/MySQL-05122A?logo=mysql)&nbsp;
 ![](https://img.shields.io/badge/MongoDB-05122A?logo=mongodb)&nbsp;
