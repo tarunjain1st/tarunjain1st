@@ -2,7 +2,7 @@
 
 <div align="center"> 
    
-<img src='https://readme-typing-svg.demolab.com/?size=14&center=true&repeat=false&duration=3000&lines=I+am+Tarun+Kumar+Jain,+a+innovator+from+India'>
+<img src='https://readme-typing-svg.demolab.com/?size=18&center=true&repeat=false&duration=3000&lines=I+am+Tarun,+a+innovator+from+India'>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?&size=20&center=true&pause=1000&color=DE43BA&height=45&duration=3500&lines=Hello;नमस्ते;जय+जिनेन्द्र;Vanakkam+(வணக்கம்);Bonjour;Hola;Nǐ+hǎo+(你好);Olà;Konichiwa+(こんにちは);Xin+chào;Marhaba+(مرحبًا))](https://git.io/typing-svg)
 
@@ -21,9 +21,8 @@
 ### 👨‍💻 About : 
 
 -   🌱 I’m a Software Developer and Data Enthusiast.
--   🔭 Currently persuing Masters at Neovarsity (Scaler), Woolf University 
--   🥅 2025 Goals: Get into FAANG/MAANG and Try out Competitive Coding
--   🌏 I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
+-   🔭 I'm Currently persuing Masters at Neovarsity (Scaler), Woolf University 
+-   🥅 2025 Goals: Try out Competitive Coding
 -   📬 How to reach me? Try links give below :grin:
 
 <p align="center">
@@ -51,7 +50,6 @@
 
 ![](https://img.shields.io/badge/Git-05122A?logo=git)&nbsp;
 
-
 ![](https://img.shields.io/badge/MySQL-05122A?logo=mysql)&nbsp;
 ![](https://img.shields.io/badge/MongoDB-05122A?logo=mongodb)&nbsp;
 ![](https://img.shields.io/badge/Redis-05122A?logo=redis)&nbsp;
@@ -63,7 +61,8 @@
 ![](https://img.shields.io/badge/Kubernetes-05122A?logo=kubernetes)&nbsp;
 </div>
 
-</td>
+---
+  </td>
          <td width="30%" align='center'>
             <img  src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/9c1aea61-6ec0-4333-9ca6-79588c9266b9">
             <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunjain1st&hide_border=true&theme=react">
@@ -84,10 +83,9 @@
             <img  src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true&theme=react">
 
    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
--->
-
----
 <div align='center'>
    <img src="https://komarev.com/ghpvc/?username=tarunjain1st&label=Views&color=brightgreen&style=plastic" alt="tarunjain1st" />
 </div>
+-->
+
 
