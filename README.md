@@ -49,7 +49,8 @@
 ![](https://img.shields.io/badge/Django-05122A?logo=django)&nbsp;
 ![](https://img.shields.io/badge/React-05122A?logo=react)&nbsp;
 
-<img src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/18219898-2231-4c53-b73f-afbefc3fe628" width="10%">
+![](https://img.shields.io/badge/Git-05122A?logo=git)&nbsp;
+
 
 ![](https://img.shields.io/badge/MySQL-05122A?logo=mysql)&nbsp;
 ![](https://img.shields.io/badge/MongoDB-05122A?logo=mongodb)&nbsp;
