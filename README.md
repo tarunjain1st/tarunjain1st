@@ -9,22 +9,22 @@
 </div>
 <br>
 
-## 👨‍💻 About : 
 
 <div>
    <table width="100%">
       <tr>
          <td width="70%">
-
+<!--
 <img src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/bc5524a9-4f3d-4e96-a2df-043043a5c6dd">
-
----
+-->
+            
+### 👨‍💻 About : 
 
 -   🌱 I’m a Software Developer and Data Enthusiast.
 -   🔭 Currently persuing Masters at Neovarsity (Scaler), Woolf University 
 -   🥅 2025 Goals: Get into FAANG/MAANG and Try out Competitive Coding
--   I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
--   📬 How to reach me?: Try below links :grin:
+-   🌏 I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
+-   📬 How to reach me? Try links give below :grin:
 
 <p align="center">
 <a href = "mailto:tarunjain1st@gmail.com"><img src="https://img.shields.io/badge/Gmail-493252?&logo=gmail" target="_blank"></a>
@@ -32,17 +32,10 @@
 <a href="https://scaler.com/academy/profile/8c51b41a8f75" target="blank"><img src="https://img.shields.io/badge/Scaler-493252?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAKlBMVEVHcEwAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8kAQ8lN1nF3AAAADXRSTlMA/eN4XGbt10WynTQhpm3+RAAAAGBJREFUGJVVz9sOgCAMA9BSroL8/+86toHap/WENAHQ1Bk8u59o5/wDo+cyYIMnKbwdeUHtLWluh7OWHcKGdKDYvkEVoM0pyG0QFWIBvi/GugQCySIwCgzWR2W+Exss3h8YZwXFcoHQ3gAAAABJRU5ErkJggg=="/></a>
 <a href="https://leetcode.com/tarunjain1st/" target="blank"><img src="https://img.shields.io/badge/Leetcode-493252?&logo=leetcode"/></a>
 </p>
-         </td>
-         <td width="30%" align='center'>
-            <img  src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/9c1aea61-6ec0-4333-9ca6-79588c9266b9">
-            <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunjain1st&hide_border=true&theme=react">
-            <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&hide_border=true&layout=compact&theme=react">
-         </td>
-      </tr>
-   </table>
-</div>
 
-## 🔧 Technologies & Tools
+---
+
+### 🔧 Technologies & Tools
 
 <div align="center">
 
@@ -52,25 +45,31 @@
 ![](https://img.shields.io/badge/C++-05122A?logo=C%2B%2B)&nbsp;
 ![](https://img.shields.io/badge/JavaScript-05122A?logo=javascript)&nbsp;
 
-
 ![](https://img.shields.io/badge/Flask-05122A?logo=flask)&nbsp;
 ![](https://img.shields.io/badge/Django-05122A?logo=django)&nbsp;
 ![](https://img.shields.io/badge/React-05122A?logo=react)&nbsp;
 
-
 <img src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/18219898-2231-4c53-b73f-afbefc3fe628" width="10%">
-
 
 ![](https://img.shields.io/badge/MySQL-05122A?logo=mysql)&nbsp;
 ![](https://img.shields.io/badge/MongoDB-05122A?logo=mongodb)&nbsp;
 ![](https://img.shields.io/badge/Redis-05122A?logo=redis)&nbsp;
-
 
 ![](https://img.shields.io/badge/Azure-05122A?logo=microsoftazure)&nbsp;
 ![](https://img.shields.io/badge/AWS-05122A?logo=amazon-aws)&nbsp;
 ![](https://img.shields.io/badge/Linux-05122A?logo=linux)&nbsp;
 ![](https://img.shields.io/badge/Docker-05122A?logo=docker)&nbsp;
 ![](https://img.shields.io/badge/Kubernetes-05122A?logo=kubernetes)&nbsp;
+</div>
+
+</td>
+         <td width="30%" align='center'>
+            <img  src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/9c1aea61-6ec0-4333-9ca6-79588c9266b9">
+            <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunjain1st&hide_border=true&theme=react">
+            <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&hide_border=true&layout=compact&theme=react">
+         </td>
+      </tr>
+   </table>
 </div>
 
 <!---
