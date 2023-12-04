@@ -38,10 +38,10 @@
 
 <div align="center">
 
+![](https://img.shields.io/badge/YAML-05122A?logo=YAML)&nbsp;
 ![](https://img.shields.io/badge/HTML-05122A?logo=HTML5)&nbsp;
-![](https://img.shields.io/badge/CSS-05122A?logo=CSS3)&nbsp;
-![](https://img.shields.io/badge/Python-05122A?logo=python)&nbsp;
 ![](https://img.shields.io/badge/C++-05122A?logo=C%2B%2B)&nbsp;
+![](https://img.shields.io/badge/Python-05122A?logo=python)&nbsp;
 ![](https://img.shields.io/badge/JavaScript-05122A?logo=javascript)&nbsp;
 
 ![](https://img.shields.io/badge/Flask-05122A?logo=flask)&nbsp;
