@@ -2,7 +2,7 @@
 
 <div align="center"> 
    
-<img src='https://readme-typing-svg.demolab.com/?size=18&center=true&repeat=false&duration=3000&lines=I+am+Tarun,+a+innovator+from+India'>
+<img src="https://readme-typing-svg.demolab.com/?size=18&center=true&repeat=false&duration=3000&lines=I'm+Tarun,+a+innovator+from+India">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?&size=20&center=true&pause=500&color=DE43BA&height=45&duration=2500&lines=Hello;नमस्ते;जय+जिनेन्द्र;Vanakkam+(வணக்கம்);Bonjour;Hola;Nǐ+hǎo+(你好);Olà;Konichiwa+(こんにちは);Xin+chào;Marhaba+(مرحبًا))](https://git.io/typing-svg)
 
