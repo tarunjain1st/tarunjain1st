@@ -72,9 +72,14 @@
       </tr>
    </table>
 </div>
+
+---
+
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&animation=grow_out_in&quoteCategory=programming">
 </div>
+
+---
 
 <!---
 
