@@ -87,9 +87,8 @@
 
 ### ✍️ Random Dev Quote:
 ![cloud-removebg-preview](https://github.com/tarunjain1st/tarunjain1st/assets/20864261/a32f2df3-368d-4716-a981-163531a341d2)
-            <img  src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true&theme=react">
-
-   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img  src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true&theme=react">
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <div align='center'>
    <img src="https://komarev.com/ghpvc/?username=tarunjain1st&label=Views&color=brightgreen&style=plastic" alt="tarunjain1st" />
 </div>
