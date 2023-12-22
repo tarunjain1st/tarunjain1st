@@ -82,7 +82,6 @@
 ---
 
 <!---
-
 ![cd1](https://github.com/tarunjain1st/tarunjain1st/assets/20864261/d77e2e9f-a690-4afa-af2d-e0ad239bc959)
 ![cd2](https://github.com/tarunjain1st/tarunjain1st/assets/20864261/18219898-2231-4c53-b73f-afbefc3fe628)
 
