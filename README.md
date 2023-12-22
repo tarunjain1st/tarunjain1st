@@ -60,7 +60,8 @@
 </div>
 
 ---
-  </td>
+
+</td>
          <td width="30%" align='center'>
             <img  src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/59169bc7-dea0-4677-afb0-55f2d6a8b604">
             <!---<img  src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/9c1aea61-6ec0-4333-9ca6-79588c9266b9">-->
