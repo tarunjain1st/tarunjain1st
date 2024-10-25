@@ -63,8 +63,9 @@
 
 </td>
          <td width="30%" align='center'>
-            <img  src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/59169bc7-dea0-4677-afb0-55f2d6a8b604">
-            <!---<img  src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/9c1aea61-6ec0-4333-9ca6-79588c9266b9">-->
+            <img  src="https://leetcode.card.workers.dev/tarunjain1st?theme=auto&font=baloo&extension=activity">
+            <!--- <img  src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/59169bc7-dea0-4677-afb0-55f2d6a8b604"> -->
+            <!--- <img  src="https://github.com/tarunjain1st/tarunjain1st/assets/20864261/9c1aea61-6ec0-4333-9ca6-79588c9266b9"> -->
             <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunjain1st&hide_border=true&theme=react">
             <img  src="https://github-readme-stats.vercel.app/api?username=tarunjain1st&show_icons=true&hide_border=true&theme=react">
             <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjain1st&hide_border=true&layout=compact&theme=react">
